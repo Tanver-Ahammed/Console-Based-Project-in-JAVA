@@ -1,0 +1,4 @@
+car,200.0,1.511,Red,Ferrary,XP5456GH,2019,20125,4,true
+pickup,200.0,1.511,Yellow,TATA,M8756GH,2018,15025,Normal,225.0
+pickup,125.0,125.32,Warm-white,Energyoac,xpsyt,2019,1250,normal,250.0
+car,258.0,1235.0,Green,Rolse rowalse,spstf564,2020,12535,4,false
